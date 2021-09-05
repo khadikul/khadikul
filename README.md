@@ -1,9 +1,9 @@
 ![I am GitHub Readme Generator's creator](https://scontent.fdac2-1.fna.fbcdn.net/v/t1.6435-9/240881543_1186695448518682_4542070648152703944_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeE9akcviYuZ_AQA6ylc6VXXAhknBVEihOkCGScFUSKE6eewezXlxp0-j9MBU8mszSzRD3Qd0JVpyBIRfyj0b3Ot&_nc_ohc=05Os7DregHUAX9ySU5D&_nc_ht=scontent.fdac2-1.fna&oh=a829cc9edae0f3ffbdf953e562c14198&oe=6159E3F6)
 
 ### Hi there 👋, my name is Md.Khadikul Islam
-#### I am GitHub Readme Generator's creator
+#### I am a professional web designer and wordpress developer
 
-Hi, Welcome to my seller page. I’m khadikul and I have worked in front end developer and wordpress customize for almost 1 years now. What started as a hobby turned quickly into a daily activity. Along the way, I successfully passed many popular Online Courses among them. Therefore, I would consider myself as someone who knows what he is doing.
+Hi, Welcome to my profile page. I’m khadikul and I have worked in front end developer and wordpress customize for almost 1 years now. What started as a hobby turned quickly into a daily activity. Along the way, I successfully passed many popular Online Courses among them. Therefore, I would consider myself as someone who knows what he is doing.
 
 Skills: / HTML / CSS/JS/BOOTSTRAP/PHP/MYSQLI
 
