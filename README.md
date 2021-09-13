@@ -5,7 +5,7 @@
 
 Hi, Welcome to my profile page. I’m khadikul and I have worked in front end developer and wordpress customize for almost 1 years now. What started as a hobby turned quickly into a daily activity. Along the way, I successfully passed many popular Online Courses among them. Therefore, I would consider myself as someone who knows what he is doing.
 
-Skills: / HTML / CSS/JS/BOOTSTRAP/PHP/MYSQLI
+Skills: / HTML / CSS/JS/BOOTSTRAP/WORDPRESSS/PHP/MYSQLI
 
 - 🔭 I’m currently working on WordPress theme develop 
 - 🌱 I’m currently learning Wordpress Theme Development 
