@@ -8,24 +8,6 @@ I'm a passionate web developer specializing in WordPress and Laravel. I love bui
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/khadikul)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-brightgreen)](https://yourwebsite.com)
 
-### 🚀 My Expertise
-
-- **WordPress Development**
-  - Custom Theme Development
-  - Plugin Development
-  - WooCommerce & E-commerce
-  - Performance Optimization
-  - WordPress REST API
-
-- **Laravel Development**
-  - Full-stack Web Applications
-  - RESTful API Development
-  - Database Architecture & Optimization
-  - Laravel Livewire
-  - Authentication & Authorization Systems
-
-### 🛠️ Tech Stack
-
 ### 📊 GitHub Stats
 
 ![Khadikul's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadikul&show_icons=true&theme=radical)
