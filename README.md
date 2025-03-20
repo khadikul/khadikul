@@ -28,7 +28,7 @@ A property listing application with advanced search, user authentication, and bo
 
 - 📧 Email: your.email@example.com
 - 💼 LinkedIn: [khadikul](https://linkedin.com/in/md-khadikul-islam-91b80821b)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 🌐 Website: [khadikul.com](https://khadikul.com)
 
 ### 🌱 I'm currently learning:
 
