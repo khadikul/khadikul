@@ -5,7 +5,7 @@
 I'm a passionate web developer specializing in WordPress and Laravel. I love building elegant, high-performance applications and websites that solve real-world problems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khadikul&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/khadikul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/khadikul](https://www.linkedin.com/in/md-khadikul-islam-91b80821b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-brightgreen)](https://yourwebsite.com)
 
 ### 📊 GitHub Stats
