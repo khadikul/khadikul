@@ -26,7 +26,7 @@ A property listing application with advanced search, user authentication, and bo
 
 ### 📫 How to reach me:
 
-- 📧 Email: your.email@example.com
+- 📧 Email: khadikul@bitekservices.com
 - 💼 LinkedIn: [khadikul](https://linkedin.com/in/md-khadikul-islam-91b80821b)
 - 🌐 Website: [khadikul.com](https://khadikul.com)
 
